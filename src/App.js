@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div >
-     <h1> Welcome to Swiggy Clone</h1>
+     <h1> Welcome to Swiggy Clone from namaste react</h1>
     </div>
   );
 }
